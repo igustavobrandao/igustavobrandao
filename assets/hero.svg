@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+  <title id="title">Gustavo Brandão</title>
+  <desc id="desc">Banner do perfil, com tipografia grande e elementos geométricos em azul e verde.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10152b" />
+      <stop offset="1" stop-color="#182744" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#b8ff73" />
+      <stop offset="1" stop-color="#5de2d0" />
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#ffffff" stroke-opacity=".07" stroke-width="1" />
+    </pattern>
+  </defs>
+  <rect width="1200" height="390" rx="26" fill="url(#bg)" />
+  <rect width="1200" height="390" rx="26" fill="url(#grid)" />
+  <path d="M760 0h440v390H960Z" fill="#b8ff73" fill-opacity=".045" />
+  <circle cx="1020" cy="196" r="158" fill="none" stroke="#5de2d0" stroke-opacity=".22" stroke-width="1" />
+  <circle cx="1020" cy="196" r="110" fill="none" stroke="#5de2d0" stroke-opacity=".33" stroke-width="1" />
+  <circle cx="1020" cy="196" r="65" fill="#5de2d0" fill-opacity=".09" />
+  <path d="m972 176-28 20 28 20m96-40 28 20-28 20m-33-61-28 83" fill="none" stroke="url(#accent)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" />
+  <rect x="62" y="53" width="8" height="8" rx="2" fill="#b8ff73" />
+  <text x="85" y="63" fill="#bad0db" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="4">PORTFÓLIO / EM CONSTRUÇÃO</text>
+  <text x="62" y="177" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="800" letter-spacing="-4">GUSTAVO</text>
+  <text x="62" y="260" fill="url(#accent)" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="800" letter-spacing="-4">BRANDÃO.</text>
+  <rect x="62" y="296" width="44" height="3" rx="1.5" fill="#b8ff73" />
+  <text x="120" y="303" fill="#dce7ee" font-family="Arial, Helvetica, sans-serif" font-size="19" letter-spacing="1">CURIOSIDADE  ·  CÓDIGO  ·  EVOLUÇÃO</text>
+  <text x="63" y="357" fill="#93a9ba" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2">APRENDER  →  CONSTRUIR  →  MELHORAR</text>
+</svg>
