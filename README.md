@@ -1,4 +1,4 @@
-<img src="./assets/hero.svg" alt="Gustavo Brandão — Full Stack Developer. Node.js e Next.js. Barreiras, Bahia." width="100%" />
+<img src="./assets/hero.svg" alt="Gustavo Brandão — Full Stack Developer. Node.js e Next.js." width="100%" />
 
 <img src="./assets/skills.svg" alt="Skills — Front-end: Next.js, React, TypeScript, Tailwind CSS. Back-end: Node.js, PostgreSQL. IA e design: AI, RAG, Automação, Design Lead." width="100%" />
 
