@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" role="img" aria-labelledby="title">
-  <title id="title">Em construção, sempre</title>
-  <rect width="1200" height="120" rx="22" fill="#10152b" />
-  <path d="M24 24h1152v72H24z" fill="none" stroke="#5de2d0" stroke-opacity=".22" />
-  <circle cx="76" cy="60" r="8" fill="#b8ff73" />
-  <text x="104" y="68" fill="#f4f8fb" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="1">EM CONSTRUÇÃO, SEMPRE.</text>
-  <text x="1124" y="67" text-anchor="end" fill="#94abba" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="3">GUSTAVO BRANDÃO</text>
-</svg>
