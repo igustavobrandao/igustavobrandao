@@ -2,6 +2,10 @@
 
 <img src="./assets/skills.svg" alt="Skills — Front-end: Next.js, React, TypeScript, Tailwind CSS. Back-end: Node.js, PostgreSQL. IA e design: AI, RAG, Automação, Design Lead." width="100%" />
 
+## Sobre Mim
+
+Desenvolvedor Full Stack trabalhando com **Next.js**, **Node.js** e **PostgreSQL**. Experiência com integração de IA usando **LangChain**, **RAG**, **embeddings** e bancos vetoriais. Design systems e componentes reutilizáveis.
+
 ## Experiência Profissional
 
 ### Olho no Leilão
