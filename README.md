@@ -59,6 +59,8 @@ Desenvolvimento de produtos e interfaces para uma fintech que oferece soluções
 - **Automação de conteúdo**: Desenvolvimento de um hub para apoiar a criação de posts e vídeos para o Instagram, com recursos visuais reutilizáveis e adaptações por marca
 - **Fluxo de publicação**: Implementação de recursos para revisão, aprovação, agendamento e acompanhamento de publicações na Meta
 
+**Link:** http://solidhub.app/
+
 ---
 
 ### IAjur Office
