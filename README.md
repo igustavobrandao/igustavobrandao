@@ -55,6 +55,7 @@ Liderança na prototipagem de produtos e no desenvolvimento frontend, com foco n
 Desenvolvimento de produtos e interfaces para uma fintech que oferece soluções de pagamento white-label, com atuação em design e automação de conteúdo:
 - **Prototipagem e UI/UX**: Criação e validação de protótipos e refinamento de interfaces com foco em usabilidade
 - **Design System**: Criação e evolução de componentes reutilizáveis com TypeScript e Tailwind CSS
+- **Backend**: Atuação em correções e hotfixes no backend da plataforma
 - **Automação de conteúdo**: Desenvolvimento de um hub para apoiar a criação de posts e vídeos para o Instagram, com recursos visuais reutilizáveis e adaptações por marca
 - **Fluxo de publicação**: Implementação de recursos para revisão, aprovação, agendamento e acompanhamento de publicações na Meta
 
