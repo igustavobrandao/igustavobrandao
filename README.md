@@ -60,9 +60,9 @@ Liderança na prototipagem de produtos e no desenvolvimento frontend, com foco n
 **Design Lead, Desenvolvedor Frontend & AI Engineer**
 
 Desenvolvimento de produtos e interfaces para uma fintech que oferece soluções de pagamento white-label, com atuação em design e automação de conteúdo:
-- **Prototipagem e UI/UX**: Criação e validação de protótipos e refinamento de interfaces com foco em usabilidade
-- **Design System**: Criação e evolução de componentes reutilizáveis com TypeScript e Tailwind CSS
-- **Backend**: Atuação em correções e hotfixes no backend da plataforma
+- **Prototipagem e UI/UX**: Criação e validação de protótipos, redesign e otimização de interfaces com foco em usabilidade e acessibilidade
+- **Design System**: Criação e evolução de componentes reutilizáveis e design tokens com TypeScript e Tailwind CSS
+- **Backend e manutenção**: Correções e hotfixes no backend, resolução de problemas críticos e melhorias de performance
 - **Automação de conteúdo**: Desenvolvimento de um hub para apoiar a criação de posts e vídeos para o Instagram, com recursos visuais reutilizáveis e adaptações por marca
 - **Fluxo de publicação**: Implementação de recursos para revisão, aprovação, agendamento e acompanhamento de publicações na Meta
 
@@ -77,20 +77,6 @@ Desenvolvimento de um sistema jurídico para o professor [@prof.jayltonlopes](ht
 - **IA e busca semântica**: Uso de LangChain, embeddings e pgvector para armazenar e consultar conteúdos jurídicos por similaridade
 - **Qualidade da busca**: Aplicação de estratégias para melhorar a relevância dos resultados, incluindo a adição de sumários aos materiais durante a ingestão
 - **Newsletter jurídica**: Criação de uma newsletter que busca notícias relevantes sobre inventário, herança e temas relacionados ao direito sucessório
-
----
-
-### MonkeyPay
-**Desenvolvedor Full Stack Junior**
-
-Desenvolvimento full stack com ênfase em melhorias de UI/UX:
-- **UI/UX Improvements**: Redesign e otimização de interfaces focando em usabilidade e acessibilidade
-- **Componentes reutilizáveis**: Criação de biblioteca de componentes padronizados
-- **Tokens CSS**: Implementação de sistema de tokens para manutenção facilitada
-- **Bug Fixes**: Correção de issues críticas e melhorias de performance
-- **Design tokens**: Uso de variáveis de design para escalabilidade
-
-**Link:** https://monkeypay.app/
 
 ---
 
