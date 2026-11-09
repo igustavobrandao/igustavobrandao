@@ -35,15 +35,27 @@ Desenvolvimento e otimização da plataforma de finanças com foco em:
 ---
 
 ### Mutual Capital
-**Design Lead & Desenvolvedor Frontend**
+**Design Lead, Desenvolvedor Frontend & AI Engineer**
 
-Liderança na prototipagem de produtos e desenvolvimento frontend:
-- **Prototipagem**: Design e validação de protótipos de novas funcionalidades
-- **Design System**: Criação e evolução de sistema de design com componentes reutilizáveis
-- **Componentes**: Implementação de componentes de alta qualidade com TypeScript e Tailwind CSS
-- **UI/UX**: Refinamento de interfaces focando em usabilidade e experiência do usuário
+Liderança na prototipagem de produtos e no desenvolvimento frontend, com foco na criação de interfaces e na automação de conteúdo:
+- **Prototipagem**: Design e validação de protótipos para novas funcionalidades
+- **Design System**: Criação e evolução de um sistema de design com componentes reutilizáveis
+- **Componentes**: Implementação de interfaces com TypeScript e Tailwind CSS, com foco em usabilidade
+- **Automação de conteúdo**: Criação de um sistema que coletava notícias relevantes para o mercado cripto e gerava podcasts com IA, newsletters e análises técnicas semanais das criptomoedas
+- **Distribuição**: Envio automatizado dos conteúdos aos assinantes por e-mail e WhatsApp
+- **Agente de IA**: Desenvolvimento de uma harness integrada a um agente de IA para controlar todo o fluxo pelo WhatsApp
 
 **Link:** https://mutualcapital.com.br/
+
+---
+
+### IAjur Office
+**Desenvolvedor Full Stack & AI Engineer**
+
+Desenvolvimento de um sistema jurídico para o professor [@prof.jayltonlopes](https://www.instagram.com/prof.jayltonlopes/), referência no direito brasileiro. Foi um dos meus primeiros projetos com aplicações de IA e busca semântica:
+- **IA e busca semântica**: Uso de LangChain e embeddings para consultar conteúdos jurídicos
+- **Qualidade da busca**: Aplicação de estratégias para melhorar a relevância dos resultados, incluindo a adição de sumários aos materiais durante a ingestão
+- **Newsletter jurídica**: Criação de uma newsletter que busca notícias relevantes sobre inventário, herança e temas relacionados ao direito sucessório
 
 ---
 
