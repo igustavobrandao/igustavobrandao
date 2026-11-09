@@ -59,8 +59,9 @@ Liderança na prototipagem de produtos e no desenvolvimento frontend, com foco n
 ### SolidHub
 **Design Lead, Desenvolvedor Frontend & AI Engineer**
 
-Desenvolvimento de produtos e interfaces para uma fintech que oferece soluções de pagamento white-label, com atuação em design e automação de conteúdo:
-- **Prototipagem e UI/UX**: Criação e validação de protótipos, redesign e otimização de interfaces com foco em usabilidade e acessibilidade
+Atuação principal no desenvolvimento frontend e na liderança de UI/UX para uma fintech que oferece soluções de pagamento white-label, além de contribuições em backend e automação de conteúdo:
+- **Frontend**: Desenvolvimento e evolução das interfaces da plataforma, com foco em qualidade, responsividade e experiência do usuário
+- **UI/UX e prototipagem**: Criação e validação de protótipos, redesign e otimização de interfaces com foco em usabilidade e acessibilidade
 - **Design System**: Criação e evolução de componentes reutilizáveis e design tokens com TypeScript e Tailwind CSS
 - **Backend e manutenção**: Correções e hotfixes no backend, resolução de problemas críticos e melhorias de performance
 - **Automação de conteúdo**: Desenvolvimento de um hub para apoiar a criação de posts e vídeos para o Instagram, com recursos visuais reutilizáveis e adaptações por marca
