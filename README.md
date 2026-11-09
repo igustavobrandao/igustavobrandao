@@ -64,7 +64,7 @@ Desenvolvimento de produtos e interfaces para uma fintech que oferece soluções
 **Desenvolvedor Full Stack & AI Engineer**
 
 Desenvolvimento de um sistema jurídico para o professor [@prof.jayltonlopes](https://www.instagram.com/prof.jayltonlopes/), referência no direito brasileiro. Foi um dos meus primeiros projetos com aplicações de IA e busca semântica:
-- **IA e busca semântica**: Uso de LangChain e embeddings para consultar conteúdos jurídicos
+- **IA e busca semântica**: Uso de LangChain, embeddings e pgvector para armazenar e consultar conteúdos jurídicos por similaridade
 - **Qualidade da busca**: Aplicação de estratégias para melhorar a relevância dos resultados, incluindo a adição de sumários aos materiais durante a ingestão
 - **Newsletter jurídica**: Criação de uma newsletter que busca notícias relevantes sobre inventário, herança e temas relacionados ao direito sucessório
 
