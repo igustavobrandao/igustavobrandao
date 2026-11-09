@@ -8,6 +8,13 @@ Desenvolvedor Full Stack trabalhando com **Next.js**, **Node.js** e **PostgreSQL
 
 ## Experiência Profissional
 
+### Synkestra
+**UI/UX Lead & Full Stack Developer**
+
+**Link:** https://synkestra.com/
+
+---
+
 ### Olho no Leilão
 **Desenvolvedor Frontend**
 
